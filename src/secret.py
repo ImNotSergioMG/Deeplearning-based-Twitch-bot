@@ -1,0 +1,6 @@
+TMI_TOKEN = "oauth:5emhd4vj095pd035b79ixlcsn4fi4x"
+CLIENT_ID = "88kog57m8a52wpcf3lgexumdoej9g4"
+BOT_NICK = "p-2"
+BOT_PREFIX = "!"
+CHANNEL = "#ImSergioMG"
+CLIENT_SECRET = "0r9nkt220jq0e9c07hkgfgnp4pn49b"
